@@ -61,8 +61,7 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-<img width="693" height="243" alt="Screenshot 2026-05-16 151141" src="https://github.com/user-attachments/assets/b0ad6c84-ac2e-42b7-9e2d-f225987d94d8" />
-<img width="507" height="212" alt="Screenshot 2026-05-16 151152" src="https://github.com/user-attachments/assets/3ef0584e-372a-435f-bf00-a7f32d102f3b" />
+<img width="764" height="1079" alt="Screenshot 2026-05-16 160610" src="https://github.com/user-attachments/assets/c4faeacd-4eb9-4d99-9ded-a744e9902507" />
 
 
 ## Result:
